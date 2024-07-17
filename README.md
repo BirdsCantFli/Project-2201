@@ -1,6 +1,9 @@
 # Project-2201
 
-# The goal of our project is to comapre anual snowfall data to the average temapture in the rockies.
-# We collected out data from various government websites. There were no rerstrictions and the files were freely dowloadble.
-# Our data was pulled directly from govenment websites as CSV files.
+# Notes on Data Sources
+# Our project aims to compare pollution numbers in cities with increasing numbers of electric vehicles.   
+# We collected our data from Kaggle, a community for data science. 
+# Our data was pulled directly from government websites as CSV files.
+# One restriction of our data is if a vehicle is sold or is no longer on the road in the given area.  
 #
+# Walk Through of Data Pulling
