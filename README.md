@@ -7,3 +7,10 @@
 # One restriction of our data is if a vehicle is sold or is no longer on the road in the given area.  
 #
 # Walk Through of Data Pulling
+#
+#
+# Walk through of data cleaning 
+#
+# Reflection of visualisations
+#
+# Storytelling/Insights 
