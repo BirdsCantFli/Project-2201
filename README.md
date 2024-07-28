@@ -4,7 +4,7 @@
 We sifted through all current Washington EV registrations and sorted by city.
 Once we got the number of registered EVs we compared it to the total number of registered vehicles in the given city.
 We also compiled the overall annual air quality index for each given city going back to 2017.
-Our data was pulled from kaggel as well as the washington state department of transportation.
+Our data was pulled from kaggel as well as the washington state department of transportation. All files were CSVs openly accessible to the public.
 
 # Walk through of data cleaning
 Both of the files were csv files, which made them easy to work on.
