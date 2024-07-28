@@ -10,6 +10,7 @@ Both of the files were csv files, which made them easy to work on.
 We ran into no restrictions for the data collecting.
 We were able to download the data with no issues, and did not have to contact the owner for access.
 For the air pollution file there was no cleaning needed; the file itself was pretty spotless. The only thing was that there were a few years that did not have data for the air pollution so we just didn't use the data. 
+For the EV file the data was easy to read but there were a fev catagories incude in the file that were not relevent to the story so we excluded those and only included the citys they were loactaed in.
 
 # Reflection of visualizations
 We wanted to put a focus on the different amounts of air pollution and the amount of EV cars in each city so we made graphs to clearly show each one. This is helpful because It will help people understand the data that we are presenting in a much clearer, and simplified way. We hope that this will make it a lot easier for our audience to understand our story. 
