@@ -14,7 +14,7 @@ For the air pollution file there was no cleaning needed; the file itself was pre
 For the EV file the data was easy to read but there were a fev catagories incude in the file that were not relevent to the story so we excluded those and only included the citys they were loactaed in.
 
 # Reflection of visualizations
-We wanted to put a focus on the different amounts of air pollution and the amount of EV cars in each city so we made graphs to clearly show each one. This is helpful because It will help people understand the data that we are presenting in a much clearer, and simplified way. We hope that this will make it a lot easier for our audience to understand our story. 
+We wanted to put a focus on the different amounts of air pollution and the amount of EV cars in each city so we made graphs to clearly show each one. This is helpful because It will help people understand the data that we are presenting in a much clearer, and simplified way. We hoped that this will make it a lot easier for our audience to understand our story. 
 
 # Storytelling/Insights 
 We wanted to tell the real story about how effective Ev cars are. We found out that they are not as effective as the media makes it out to seem. While the car itself does not produce any emissions they still indirectly create air pollution. So while they are more effective than ICE it is not a massive change. This is helpful because we can see how much of an impact these cars really have, and how much of an impact outside factors have. Giving us the opportunity to tackle the issue of air pollution in a more effective way. 
